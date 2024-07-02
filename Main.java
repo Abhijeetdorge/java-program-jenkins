@@ -10,5 +10,8 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             System.out.println("Abhijeet Dorge");
         }
+
+        Student student = new Student();
+        student.seyHello();
     }
 }
