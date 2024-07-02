@@ -15,5 +15,6 @@ public class Main {
         student.seyHello();
 
         System.out.println("I,m done..!");
+        System.out.println("Byeee..!");
     }
 }
